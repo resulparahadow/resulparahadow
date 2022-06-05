@@ -4,6 +4,10 @@ I am backend developer with 2 years of experience
 
 Experienced: Laravel, DDD, TDD, phpunit git, mysql, open api, mysql, redis
 
+Email address: parahadovrp@gmail.com
+Telegram: https://t.me/resulparahadov
+Skype: live:.cid.b5183d62fc17a35c
+
 <!--
 **resulparahadow/resulparahadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
